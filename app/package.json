@@ -1,0 +1,13 @@
+{
+  "name": "api-node-classroom",
+  "version": "1.1.0",
+  "description": "Laboratório 02 - Portas, Variáveis de Ambiente e Bind Mounts no Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^5.0.0"
+  }
+}
